@@ -1,6 +1,7 @@
 Title: Comparison of Machine Learning Algorithms for Predicting Chronic Kidney Disease
 
 Abstract:
+
 Motivation: This research aims to evaluate different machine learning techniques for predicting chronic kidney disease (CKD), compare their performance, and analyze the potential of neural networks to enhance accuracy. Improving prognosis can enable personalized medicine and better outcomes.
 Results: The study reveals that artificial neural networks integrated into sophisticated machine learning ensembles can boost diagnostic accuracy and model performance for CKD prognosis.
 
